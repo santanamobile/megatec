@@ -4,7 +4,7 @@
 
 To test this emulator in NUT, use the file provided in etc/nut/ups.conf
 
-# Projetos foram realizados com base na documentação em:
+# Documentation:
 https://networkupstools.org/protocols/megatec.html
 
 # TODO
